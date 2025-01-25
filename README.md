@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My Name is Janukhi and I'm interested in web development
+
+- 🔭 I’m currently working on bulding my first web game monopoly physics
+- 🌱 I’m currently learning about css, html, js
+
 <!--
 **GrayU3/grayu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
